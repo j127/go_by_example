@@ -32,6 +32,7 @@ func main() {
 	fmt.Println(s.name)
 
 	sp := &s
+	// automatically dereferenced
 	fmt.Println(sp.age) // 50
 
 	sp.age = 51
