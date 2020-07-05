@@ -34,6 +34,7 @@ func main() {
 	fmt.Println("slice3:", l)
 
 	// initialize a slice and set the values
+	// notice that the length isn't specified in the square brackets
 	t := []string{"g", "h", "i"}
 	fmt.Println("declared:", t)
 

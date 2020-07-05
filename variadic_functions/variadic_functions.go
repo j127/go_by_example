@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// any number of args
 func sum(nums ...int) {
 	fmt.Print(nums, " ")
 	total := 0
@@ -15,6 +16,7 @@ func main() {
 	sum(1, 2)
 	sum(1, 2, 3)
 
+	// to use a slice in a variadic function, use trailing dots
 	nums := []int{1, 2, 3, 4}
 	sum(nums...)
 }
