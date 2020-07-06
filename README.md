@@ -1,6 +1,6 @@
 # `go_by_example`
 
-Finished the book on 2020-07-05. I started typing out all the code, but then realized that it was enough to read, explain, and take paper notes.
+Finished the website on 2020-07-05. I started typing out all the code, but then realized that it was enough to read, explain, and take paper notes.
 
 ## Running Programs
 
