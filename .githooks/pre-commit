@@ -9,7 +9,7 @@ if [[ $STAGED_GO_FILES == "" ]]; then
     echo "no staged Go files"
 else
     for file in $STAGED_GO_FILES; do
-        go fmt $file
+        gofmt $file
         git add $file
     done
 fi
