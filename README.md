@@ -2,6 +2,8 @@
 
 Finished the website on 2020-07-05. I started typing out all the code, but then realized that it was enough to read, explain, and take paper notes.
 
+Some of the examples were attempts to implement the task from memory, so they might not match the website.
+
 ## Running Programs
 
 ```text
