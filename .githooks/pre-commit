@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# See: https://tutorialedge.net/golang/improving-go-workflow-with-git-hooks/
+
+echo "Running gofmt"
+STAGED_GO_FILES=$(git diff --cached --name-only -- '*.go')
+
+if [[ $STAGED_GO_FILES == "" ]]; then
+    echo "no staged Go files"
+else
+    for file in $STAGED_GO_FILES; do
+        go fmt $file
+        git add $file
+    done
+fi
