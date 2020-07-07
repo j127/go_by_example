@@ -21,78 +21,78 @@ $ ./build/hello
 
 Notes moved to [./NOTES/](./NOTES/).
 
-- Hello World
-- Values
-- Variables
-- Constants
-- For
-- If/Else
-- Switch
-- Arrays
-- Slices
--  Maps
--  Range
--  Functions
--  Multiple Return Values
--  Variadic Functions
--  Closures
--  Recursion
--  Pointers
--  Structs
--  Methods
--  Interfaces
--  Errors
--  Goroutines
--  Channels
--  Channel Buffering
--  Channel Synchronization
--  Channel Directions
--  Select
--  Timeouts
--  Non-Blocking Channel Operations
--  Closing Channels
--  Range over Channels
--  Timers
--  Tickers
--  Worker Pools
--  WaitGroups
--  Rate Limiting
--  Atomic Counters
--  Mutexes
--  Stateful Goroutines
--  Sorting
--  Sorting by Functions
--  Panic
--  Defer
--  Collection Functions
--  String Functions
--  String Formatting
--  Regular Expressions
--  JSON
--  XML
--  Time
--  Epoch
--  Time Formatting / Parsing
--  Random Numbers
--  Number Parsing
--  URL Parsing
--  SHA1 Hashes
--  Base64 Encoding
--  Reading Files
--  Writing Files
--  Line Filters
--  File Paths
--  Directories
--  Temporary Files and Directories
--  Testing
--  Command-Line Arguments
--  Command-Line Flags
--  Command-Line Subcommands
--  Environment Variables
--  HTTP Clients
--  HTTP Servers
--  Context
--  Spawning Processes
--  Exec'ing Processes
--  Signals
--  Exit
+0. Hello World
+0. Values
+0. Variables
+0. Constants
+0. For
+0. If/Else
+0. Switch
+0. Arrays
+0. Slices
+0. Maps
+0. Range
+0. Functions
+0. Multiple Return Values
+0. Variadic Functions
+0. Closures
+0. Recursion
+0. Pointers
+0. Structs
+0. Methods
+0. Interfaces
+0. Errors
+0. Goroutines
+0. Channels
+0. Channel Buffering
+0. Channel Synchronization
+0. Channel Directions
+0. Select
+0. Timeouts
+0. Non-Blocking Channel Operations
+0. Closing Channels
+0. Range over Channels
+0. Timers
+0. Tickers
+0. Worker Pools
+0. WaitGroups
+0. Rate Limiting
+0. Atomic Counters
+0. Mutexes
+0. Stateful Goroutines
+0. Sorting
+0. Sorting by Functions
+0. Panic
+0. Defer
+0. Collection Functions
+0. String Functions
+0. String Formatting
+0. Regular Expressions
+0. JSON
+0. XML
+0. Time
+0. Epoch
+0. Time Formatting / Parsing
+0. Random Numbers
+0. Number Parsing
+0. URL Parsing
+0. SHA1 Hashes
+0. Base64 Encoding
+0. Reading Files
+0. Writing Files
+0. Line Filters
+0. File Paths
+0. Directories
+0. Temporary Files and Directories
+0. Testing
+0. Command-Line Arguments
+0. Command-Line Flags
+0. Command-Line Subcommands
+0. Environment Variables
+0. HTTP Clients
+0. HTTP Servers
+0. Context
+0. Spawning Processes
+0. Exec'ing Processes
+0. Signals
+0. Exit
