@@ -19,6 +19,8 @@ $ ./build/hello
 
 ## Notes
 
+Notes moved to [./NOTES/](./NOTES/).
+
 ### 1. Hello World
 
 ### 2. Values
