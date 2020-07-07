@@ -16,9 +16,10 @@ func writeFile(filename string) {
 	ioutil.WriteFile(fn, text, 0644)
 }
 
+// My peg list is zero-indexed and there are 75 sections.
 func main() {
 	fmt.Println("beginning")
-	for i := 1; i <= 75; i++ {
+	for i := 0; i < 75; i++ {
 		writeFile(strconv.Itoa(i))
 	}
 	fmt.Println("done")
